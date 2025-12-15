@@ -1,1 +1,0 @@
-# el animal seleccionado es la vaca
